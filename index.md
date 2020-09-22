@@ -1,13 +1,13 @@
 Beer-Raiders:
 
-[Problem Statement] (/problem.md)
+[Problem Statement](/problem.md)
 
-[User Stories] (/userstories.md)
+[User Stories](/userstories.md)
 
-[Requirements] (/requirements.md)
+[Requirements](/requirements.md)
 
-[Architecture] (/architecture.md)
+[Architecture](/architecture.md)
 
-[Design Document] (/design.md)
+[Design Document](/design.md)
 
-[Test Report] (/testreport.md)
+[Test Report](/testreport.md)
