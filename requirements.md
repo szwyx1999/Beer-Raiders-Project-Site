@@ -8,7 +8,7 @@ Our team's product will be used in a home or school/workplace environment. The p
 
 ##### **Domain Model with Description**
 
-<img src="C:\Users\cdavila\Documents\CS_371\Beer-Raiders-Project-Site\UMLclass.png" alt="UMLclass" style="zoom:65%;" />
+<img src="UMLclass.png" alt="UMLclass" style="zoom:65%;" />
 
 The above UML Class diagram depicts the game system mechanics. The Player has a relationship with Enemies in that the player attacks the enemies. The multiplicity on the enemies end indicates that there will be 1 or more enemies attacking one Player. At all times, there will be only one player attacking one or more enemies. The Scores Points association class indicates that the moment a player attacks and hits an enemy, the moment is recorded as points scored. The Lose Health association class indicates the player is penalized with a loss of health the moment an enemy's attack hits the player. Because the player is able to accumulate more one instance of points, the player is composed of a score. The Score composition class is indicative of the upkeep of an aggregate score. During the player's game, the score will accumulate to a specific amount and grant the player one extra health. The PointsNeedToExHealth attribute representative of a constant and the AggregateScore attribute is checked against the PointsNeedToExHealth attribute to find if the player is successful at reaching the required amount of points specified in the PointsNeedToExHealth attribute. 
 
