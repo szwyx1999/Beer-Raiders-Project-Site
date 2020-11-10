@@ -10,7 +10,7 @@
 
 - ###### General Description
 
-  The game will have a menu screen. The menu will have a start game option. The game will commence once the user clicks the start option. The game will have both menu and in-game music. The player will have animations for walking left and right. The protagonist will have to obtain from blimps that enter the playing area at random intervals.
+  The game will have a menu screen. The menu will have a start game option. The game will commence once the user clicks the start option. The game will have both menu and in-game music. The player will have animations for walking left and right. The protagonist will have to obtain powerups from blimps that enter the playing area at random intervals.
 
   After shooting the blimp, the protagonist will have to collide with the falling powerup to collect the special. Specials will be extra health, score multiplier(optional feature), rapid shooting, and an overhead protective barrier. The barrier will only protect against a certain amount of attacks before it blows up. The rapid shooting powerup will remain in effect until the player gets shot and loses health (beer).
 
