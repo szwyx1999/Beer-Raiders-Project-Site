@@ -4,7 +4,7 @@
 
 ##### Architecture Design Diagram
 
-<img src="C:\Users\cdavila\Documents\CS_371\Beer-Raiders-Project-Site\ArchitectDesign.png" style="zoom:72%;" />
+<img src=".\ArchitectDesign.png" style="zoom:72%;" />
 
 ##### Architecture Description
 
