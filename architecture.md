@@ -4,7 +4,7 @@
 
 ##### Architecture Design Diagram
 
-<img src=".\ArchitectDesign.png" style="zoom:72%;" />
+<img src=".\ArchitectDesignFin.png" style="zoom:72%;" />
 
 ##### Architecture Description
 
