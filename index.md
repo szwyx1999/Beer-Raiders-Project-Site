@@ -1,4 +1,13 @@
-Beer-Raiders:
+**Team Name:** CYDJ
+
+**Team Members:**
+
+- *Chris Davila*
+- *Yuxi Wang*
+- *Daniel Almeida*
+- *Julio Estrada*			
+
+**Beer-Raiders:**
 
 [Problem Statement](/problem.md)
 
